@@ -1,1 +1,5 @@
 *.xml
+dwh_nodes
+*/__pycache__/
+*.csv
+*.h5
